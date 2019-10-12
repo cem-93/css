@@ -1,3 +1,14 @@
-p {
-    color: red;
-  }
+#cem{
+  color: rgb(0, 230, 238);
+  background-color: blue;
+}
+
+#footi{
+  color: saddlebrown;
+  background-color: #fa2121;
+}
+
+#home{
+font-size: 1cm;
+color: green;
+}
